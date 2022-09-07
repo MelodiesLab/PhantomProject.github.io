@@ -1,5 +1,0 @@
-# Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :330864986
